@@ -1,0 +1,25 @@
+{
+  "name": "wyly-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimKondo/wyly-web-app.git"
+  },
+  "author": "gimKondo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gimKondo/wyly-web-app/issues"
+  },
+  "homepage": "https://github.com/gimKondo/wyly-web-app#readme",
+  "dependencies": {
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
